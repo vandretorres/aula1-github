@@ -6,7 +6,7 @@ public class Main {
 
 		System.out.println("Bom dia");
 		
-		System.out.println("Boa Tarde");
+		System.out.println("Boa Tarde...");
 
 	}
 
